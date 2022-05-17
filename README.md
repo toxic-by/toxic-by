@@ -1,2 +1,2 @@
-### Links for deployed projects in reps :arrow_down:
+### Links for deployed projects are in reps :arrow_down:
 
